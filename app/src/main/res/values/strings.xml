@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Custom Calculator</string>
+    <string name="first_number">Enter a Number</string>
+    <string name="second_number">Enter another Number</string>
+    <string name="result">Result</string>
+    <string name="add"><b>Add</b></string>
+    <string name="sub"><b>Sub</b></string>
+    <string name="mul"><b>Mul</b></string>
+    <string name="div"><b>Div</b></string>
+    <string name="equal"><b>=</b></string>
+    <string name="reset">Reset</string>
+</resources>
